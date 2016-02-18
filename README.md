@@ -1,6 +1,8 @@
 DBSCAN
 ======
 
+[![Build Status](https://travis-ci.org/mpangrazzi/dbscan.svg?branch=master)](https://travis-ci.org/mpangrazzi/dbscan)
+
 A basic [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) implementation for **three dimensional data**.
 
 
