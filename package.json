@@ -1,5 +1,5 @@
 {
-  "name": "dbscan",
+  "name": "dbscan2",
   "version": "1.0.0",
   "description": "An implementation of DBSCAN for three dimensional data",
   "main": "index.js",
@@ -8,6 +8,10 @@
   },
   "author": "Michele Pangrazzi <xmikex83@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mpangrazzi/dbscan.git"
+  },
   "dependencies": {
     "debug": "^2.2.0",
     "object-assign": "^4.0.1"

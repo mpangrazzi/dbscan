@@ -11,7 +11,7 @@ A basic [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) implementation for **thre
 With [NPM](https://www.npmjs.com):
 
 ```
-npm install dbscan
+npm install dbscan2
 ```
 
 
