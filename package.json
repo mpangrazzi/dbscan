@@ -1,0 +1,19 @@
+{
+  "name": "dbscan",
+  "version": "1.0.0",
+  "description": "An implementation of DBSCAN for three dimensional data",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/tape test/**/*.js | ./node_modules/.bin/tap-spec"
+  },
+  "author": "Michele Pangrazzi <xmikex83@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "object-assign": "^4.0.1"
+  },
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.4.0"
+  }
+}
