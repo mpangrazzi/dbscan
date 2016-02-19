@@ -24,7 +24,7 @@ npm test
 
 ### Examples / Debug
 
-If you want to know exactly whats goin' on under the hood, run the provided example with:
+If you want to know exactly what's goin' on under the hood, run the provided example with:
 
 ```
 DEBUG=dbscan node examples/
